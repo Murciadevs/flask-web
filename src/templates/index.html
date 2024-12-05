@@ -1,0 +1,11 @@
+{% extends "plantilla.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+    <h2>Escuela avznza</h2>
+    {% if usuarios==None %}
+        <p>No hay usuarios</p>
+    {% endif %}
+    {% for user in usuarios %}
+        <p>{{ user }}</p>
+    {% endfor %}
+{% endblock %}
