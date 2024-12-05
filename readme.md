@@ -4,7 +4,13 @@ En el archivo "Como desplegar tu proyecto python a servidor gratuito.docx" se en
 
 # Prueba el proyecto aki: 
 
-https://flask-web-test.onrender.com
+1. Ve a https://dashboard.render.com/login
 
-Proyecto: https://github.com/avanzatipolisto/flask-web-test
+2. logeate con la contraseña del cole
+   
+<img src="images/readme1.PNG" width="400">
+
+https://flask-web-wt8c.onrender.com
+
+Proyecto: https://github.com/Murciadevs/flask-web
 
